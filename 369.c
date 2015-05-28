@@ -13,7 +13,7 @@ int main(void)
 
 	int jjak = 0;
 
-	printf("MAX 값을 설정하세요 : ");
+	printf("How many 369 do you want?  ");
 	scanf("%d", &max);
 	puts("");
 
